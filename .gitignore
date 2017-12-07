@@ -3,8 +3,21 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+assignment1/utils/datasets/
+assignment2/data/
+assignment3/data/
+assignment3/results
+**/*.pdf
+**/*.zip
+**/*.png
+**/*.pyc
+**/*.npy
+**/.DS_Store
+.DS_Store
+
 # C extensions
 *.so
+
 
 # Distribution / packaging
 .Python
